@@ -1,8 +1,8 @@
 # **Penggunaan Web Poliklinik**
 
-## **Database**
-Database poliklinik tersedia pada folder database/poli_bk.sql
 
+## **Import Terlebih dahulu databse**
+cari file yg akhirannya .sql
 ---
 
 ## **Login Sebagai Admin**
@@ -13,10 +13,10 @@ Database poliklinik tersedia pada folder database/poli_bk.sql
 ---
 
 ## **Login Sebagai Dokter**
-**Secara default, username dokter = password dokter**
 
-*contoh :*
 ```
-    username : Salim Sulaiman
-    password : Salim Sulaiman
+passowrd data username sama, hanya beda di huruf kecil
+contoh :
+    username : Dokter Lukman
+    password : dokter lukman
 ```
