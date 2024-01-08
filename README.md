@@ -16,8 +16,7 @@
 ## **Login Sebagai Dokter**
 
 ```
-passowrd data username sama, hanya beda di huruf kecil dan besar
-contoh :
+passowrd data username sama :
     username : Dokter Lukman
-    password : dokter lukman
+    password : Dokter Lukman
 ```
