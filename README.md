@@ -1,8 +1,9 @@
 # **Penggunaan Web Poliklinik**
 
-
 ## **Import Terlebih dahulu databse**
-cari file yg akhirannya .sql
+```
+    cari file yg akhirannya .sql
+```
 ---
 
 ## **Login Sebagai Admin**
@@ -15,7 +16,7 @@ cari file yg akhirannya .sql
 ## **Login Sebagai Dokter**
 
 ```
-passowrd data username sama, hanya beda di huruf kecil
+passowrd data username sama, hanya beda di huruf kecil dan besar
 contoh :
     username : Dokter Lukman
     password : dokter lukman
